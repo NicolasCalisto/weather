@@ -8,5 +8,7 @@ import { Component } from '@angular/core';
   styleUrl: './weather-details.component.css'
 })
 export class WeatherDetailsComponent {
-
+  cloudy: string = '80';
+  humidity: string = '65';
+  wind: string = '2';
 }

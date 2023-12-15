@@ -19,6 +19,7 @@
 .submitButton {
     position: relative;
     bottom: 12px;
+    left: 1em;
     height: 70px;
     width: 70px;
     border: none;
